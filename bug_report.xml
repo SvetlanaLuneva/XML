@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <number number="true">1</number>
+  <title>Не происходит добавление/удаление правил</title>
+  <form>баг</form>
+  <criticality>Minor</criticality>
+  <description>В настройках в разделе "безопасность" невозможно удалить новые правила</description>
+  <Steps>1. Переходим в Настройки</Steps>
+  <Steps>2. Переходим в раздел "Безопасность"</Steps>
+  <Steps>3. Удаляем правила</Steps>
+  <Result>не происходит добавление правила</Result>
+  <Exppected_Result>добавление правила прошло успешно</Exppected_Result>
+  <Workspace>Windows XP, Orera 11.0, Kaspersky Anti-Virus</Workspace>
+</root>
