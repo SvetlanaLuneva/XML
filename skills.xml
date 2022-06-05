@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <skills>1. HTTP Методы запросов на сервер</skills>
+  <skills>2. Тестирование API через Postman</skills>
+  <skills>3. Charles и Fiddler</skills>
+  <skills>4. Мобильное тестирование</skills>
+  <skills>5. Основы SQL</skills>
+  <skills>6. Нагрузочное тестирование в Jmeter</skills>
+</root>
