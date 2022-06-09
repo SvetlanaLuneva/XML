@@ -5,10 +5,12 @@
   <form>баг</form>
   <criticality>Minor</criticality>
   <description>В настройках в разделе "безопасность" невозможно удалить новые правила</description>
-  <Steps>1. Переходим в Настройки</Steps>
-  <Steps>2. Переходим в раздел "Безопасность"</Steps>
-  <Steps>3. Удаляем правила</Steps>
+  <Steps>
+    <1>Переходим в Настройки</1>
+    <2>Переходим в раздел "Безопасность"</2>
+    <3>Удаляем правила</3>
+  </Steps>
   <Result>не происходит добавление правила</Result>
-  <Exppected_Result>добавление правила прошло успешно</Exppected_Result>
+  <Expected_Result>добавление правила прошло успешно</Exppected_Result>
   <Workspace>Windows XP, Orera 11.0, Kaspersky Anti-Virus</Workspace>
 </root>
